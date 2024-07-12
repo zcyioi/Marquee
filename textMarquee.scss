@@ -1,0 +1,13 @@
+.marqueebox {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.marqueecontent p {
+  display: inline-block;
+}
+
+.marqueecontent p.padding {
+  padding-right: 100%;
+}
